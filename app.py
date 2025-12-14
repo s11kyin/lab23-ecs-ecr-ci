@@ -10,7 +10,7 @@ def hello():
     <html>
       <head><title>Lab 21 - ECS + ECR</title></head>
       <body>
-        <h1>DevOps Easy Learning - Lab 21</h1>
+        <h1>DevOps Easy Learning - Lab 24</h1>
         <p>This response is served from container: {hostname}</p>
       </body>
     </html>
